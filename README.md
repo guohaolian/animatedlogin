@@ -4,7 +4,7 @@
 
 一个带有互动动画角色的登录页面。角色会跟随鼠标移动、对用户输入做出反应，提供生动有趣的登录体验。
 ## 预览
-https://animatedlogin-eta.vercel.app/
+https://animatedlogin.pages.dev/   OR    https://animatedlogin-eta.vercel.app/
 ### 页面布局
 - **左侧面板**：4 个动画角色（紫色矩形、黑色矩形、橙色半圆、黄色圆角矩形）
 - **右侧面板**：登录表单（邮箱、密码、登录按钮、Google 登录）
