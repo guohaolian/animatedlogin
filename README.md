@@ -2,7 +2,7 @@
 
 ![预览](./20260306-175408.gif)
 
-一个带有互动动画角色的登录页面。角色会跟随鼠标移动、对用户输入做出反应，提供生动有趣的登录体验。
+一个带有互动动画角色的登录页面。角色会跟随鼠标移动、对用户输入做出反应，提供生动有趣的登录体验。此外还有一个Vue3组件版本在https://github.com/guohaolian/animated-characters-login-page
 ## 预览
 https://animatedlogin.pages.dev/   OR    https://animatedlogin-eta.vercel.app/
 ### 页面布局
