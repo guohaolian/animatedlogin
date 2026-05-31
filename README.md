@@ -2,7 +2,7 @@
 
 ![预览](./20260306-175408.gif)
 
-一个带有互动动画角色的登录页面。角色会跟随鼠标移动、对用户输入做出反应，提供生动有趣的登录体验。此外还有一个Vue3组件版本在https://github.com/guohaolian/animated-characters-login-page
+一个带有互动动画角色的登录页面。角色会跟随鼠标移动、对用户输入做出反应，提供生动有趣的登录体验。此外还有一个Vue3组件版本在https://github.com/guohaolian/animated-characters-login-page;React版本在https://github.com/guohaolian/animatedlogin_React
 ## 预览
 https://animatedlogin.pages.dev/   OR    https://animatedlogin-eta.vercel.app/
 ### 页面布局
@@ -11,15 +11,15 @@ https://animatedlogin.pages.dev/   OR    https://animatedlogin-eta.vercel.app/
 
 ### 交互动画效果
 
-| 场景 | 效果 |
-|------|------|
-| 空闲 | 角色眼睛跟随鼠标移动，身体微微倾斜 |
-| 随机眨眼 | 紫色和黑色角色随机间隔眨眼 |
-| 输入邮箱 | 角色互相对视 |
-| 输入密码 | 角色转头回避，不看密码 |
-| 显示密码 | 角色看向远处，紫色角色偶尔偷看 |
-| 登录失败 | 角色露出沮丧表情并摇头 |
-| 按钮悬停 | 文字滑出，紫色背景 + 箭头滑入 |
+| 场景     | 效果                               |
+| -------- | ---------------------------------- |
+| 空闲     | 角色眼睛跟随鼠标移动，身体微微倾斜 |
+| 随机眨眼 | 紫色和黑色角色随机间隔眨眼         |
+| 输入邮箱 | 角色互相对视                       |
+| 输入密码 | 角色转头回避，不看密码             |
+| 显示密码 | 角色看向远处，紫色角色偶尔偷看     |
+| 登录失败 | 角色露出沮丧表情并摇头             |
+| 按钮悬停 | 文字滑出，紫色背景 + 箭头滑入      |
 
 ## 技术实现
 
